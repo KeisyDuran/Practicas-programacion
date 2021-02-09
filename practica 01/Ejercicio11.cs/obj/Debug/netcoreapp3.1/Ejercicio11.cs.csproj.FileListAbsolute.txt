@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.exe
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.deps.json
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.runtimeconfig.json
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.runtimeconfig.dev.json
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.dll
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\bin\Debug\netcoreapp3.1\Ejercicio11.cs.pdb
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.dll
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.pdb
+C:\Users\HP\Desktop\5to cuatrimestre\Fund. de programacion\practica 01\Ejercicio11.cs\obj\Debug\netcoreapp3.1\Ejercicio11.cs.genruntimeconfig.cache
