@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\practica03\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache
