@@ -6,6 +6,9 @@ namespace ejercicio1
     {
         static void Main(string[] args)
         {
+
+//Crear un programa que pida números positivos al usuario, y vaya calculando
+//la suma de todos ellos (terminará cuando se teclea un número negativo o cero).
             
          int a, b, c, e;
 
