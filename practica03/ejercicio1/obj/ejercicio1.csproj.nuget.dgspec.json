@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj": {}
+    "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj": {
+    "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj",
         "projectName": "ejercicio1",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Practicas\\practica03\\ejercicio1\\obj\\",
+        "projectPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas\\practica03\\ejercicio1\\ejercicio1.csproj",
+        "packagesPath": "C:\\Users\\keisy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas\\practica03\\ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\keisy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

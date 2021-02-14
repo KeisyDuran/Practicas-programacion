@@ -6,21 +6,41 @@ namespace ejercicio1
     {
         static void Main(string[] args)
         {
-              int num=1, cont=0;
-            float suma=0;
+            
+         int a, b, c, e;
 
-            while (num!=0)
-            {
-                Console.Write("Introduzca un numero: ");
-                num = int.Parse (Console.ReadLine());
-                suma=suma+num;
-                if (num!=0)
-                {
-                  cont=cont+1;                   
-                }
-            }
-                 Console.WriteLine("La sumatoria es: {0}", suma);
-                 Console.WriteLine("La cantidad de numeros ingresados es: {0}", cont);
+         Console.Write("Introduzca un numero positivo: ");
+         a = int.Parse(Console.ReadLine());
+         Console.Write("Introduzca un numero positivo: ");
+         b = int.Parse(Console.ReadLine());
+            c=a+b;
+         if ((a<0) | (b<0)) Console.Write("Numero Invalido");
+         
+             else
+             {
+                 Console.Write("Su suma es: {0}\n ", + c);
+
+                  do
+                  {
+                    Console.Write("Introduzca un numero positivo: ");
+                    e = int.Parse(Console.ReadLine());
+                    c=c+e;
+
+                      if (e>0) Console.Write("Su suma es: {0}\n ", + c);
+                      
+                        else
+                        {
+                            Console.Write("No Valido!\n");
+                        }                         
+                      
+                  } while (e>0);
+
+              Console.Write("Adios.\n");      
+             }
+
+            Console.ReadLine(); 
+            
+         
         }
     }
 }
