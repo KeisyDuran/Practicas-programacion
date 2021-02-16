@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\bin\Debug\netcoreapp3.1\primer parcial.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas\primer parcial\obj\Debug\netcoreapp3.1\primer parcial.genruntimeconfig.cache
