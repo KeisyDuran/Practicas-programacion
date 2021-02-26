@@ -5,9 +5,9 @@ namespace ejercicio1
     class Program
     {
         static void Main(string[] args)
-        {
 // Un programa que pida al usuario 4 números, los memorice (utilizando un array), 
-//calcule su media aritmética y después muestre en pantalla la media y los datos tecleados.            
+//calcule su media aritmética y después muestre en pantalla la media y los datos tecleados.
+        {            
             double [] num = new double [4]; 
             double sum = 0; 
             double media; 
