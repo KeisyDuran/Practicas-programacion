@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.genruntimeconfig.cache
