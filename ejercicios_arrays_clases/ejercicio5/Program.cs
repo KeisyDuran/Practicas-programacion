@@ -6,17 +6,40 @@ namespace ejercicio5
     {
         static void Main(string[] args)
         {
-          string[] nombre = new string[100];
-          int i=0;
-          do
-          { 
-            Console.WriteLine("teclee un nombre");
-            nombre[i] = Console.ReadLine();
-          }
-          while (nombre[i] != "");
-          Console.WriteLine("fin");
-          for (i = 0; i < 99; i++) ;
-           Console.WriteLine("los nombres tecleados son {0}", nombre[i]);
+          string[] nombres; 
+          ushort num = 0;
+            do
+            {
+               try
+                {
+                  Console.Write("¿Cuántos nombres va a introducir? ");
+                  num = UInt16.Parse(Console.ReadLine());
+                }
+                  catch
+                  {
+                   continue;
+                  }
+
+            } while (num == 0);
+
+            nombres = new string[num];
+         
+            for (int i = 0; i < num; i++)
+            {
+              Console.Write("Introduce el nombre numero {0}: ", i);
+              nombres[i] = Console.ReadLine();
+            }
+
+            Console.WriteLine("Introducidos los {0} nombres", num);
+            Console.WriteLine("Pulsa INTRO para listarlos");
+
+            string a = Console.ReadLine();
+ 
+            for (int i = 0; i < num; i++)
+            {
+             Console.WriteLine("Nombre numero {0}: {1}", i, nombres[i]);
+            }
+            a = Console.ReadLine();
         }
     }
 }
