@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicios_arrays_clases\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.genruntimeconfig.cache
