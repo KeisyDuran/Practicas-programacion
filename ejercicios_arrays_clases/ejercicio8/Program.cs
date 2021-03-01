@@ -3,6 +3,8 @@
 namespace ejercicio8
 {
     class Program
+//Crear un programa que defina un array de 5 elementos de tipo float que representen las alturas de 5 personas.
+//Obtener el promedio de las mismas. Contar cuántas personas son más altas que el promedio y cuántas más bajas.
     {
         static void Main(string[] args)
         {
