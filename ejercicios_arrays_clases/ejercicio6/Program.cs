@@ -51,9 +51,7 @@ namespace ejercicio6
                            for (i=0; i<cantidad; i++)
                            {
                                Console.WriteLine("\n numero de imagen {0} \n nombre de la imagen {1}", i+1, imagen[i+1].nombre);
-                           }
-
-                           Console.ReadLine();                       
+                           }                     
                        }
                        
                        else
