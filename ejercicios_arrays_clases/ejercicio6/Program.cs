@@ -10,35 +10,30 @@ namespace ejercicio6
 //El programa debe ser capaz de almacenar hasta 700 imágenes (deberá avisar cuando su capacidad esté llena). Debe permitir las opciones: añadir una ficha nueva, 
 //ver todas las fichas (número y nombre de cada imagen), buscar la ficha que tenga un cierto nombre.
         {
-            datosimagen [] imagen = new datosimagen[700]; // array..
+          datosimagen[] imagen = new datosimagen[700]; // array..
           int i=0, cantidad=0, capacidad=700, contador=0, opcion; // declaramos variables...
           string buscar;
 
-          do
-          {
-             Console.WriteLine(" INTRODUSCA UNA OPCION A REALIZAR ");
-             Console.WriteLine("\n\n 1. Añadir");
-             Console.WriteLine("\n\n 2. Ver Añadidas");
-             Console.WriteLine("\n\n 3. Buscar añadidas");
-             Console.WriteLine("\n\n 4. Salir");
-             opcion = ConvertToInt32(Console.ReadLine());
+             Console.WriteLine(" Introduzca la opcion a realizar ");
+             Console.WriteLine(" 1. Añadir");
+             Console.WriteLine(" 2. Ver Añadidas");
+             Console.WriteLine(" 3. Buscar añadidas");
+             Console.WriteLine(" 4. Salir");
+             opcion = Convert.ToInt32(Console.ReadLine());
 
-              if (opcion!=1 && opcion!=2 && opcion!=3 && opcion!=4)
+              switch (opcion)
               {
-                  Console.WriteLine("Opcion incorrecta elija otra !!");
-
-                   if (opcion ==1)
-                   {
-                       if (cantidad < capacidad)
+                  case 1:
+                    if (cantidad < capacidad)
                        {
                            Console.WriteLine("introdusca el nombre de la imagen");
                            imagen[cantidad+1].nombre = Convert.ToString(Console.ReadLine());
                            Console.WriteLine("introdusca el ancho");
-                           imagen[cantidad+1].ancho = Convert.ToString(Console.ReadLine());     // vamos convirtiendo y sumando la cantidad...
+                           imagen[cantidad+1].ancho = int.Parse(Console.ReadLine());     // vamos convirtiendo y sumando la cantidad...
                            Console.WriteLine("teclee el alto");
-                           imagen[cantidad+1].alto = Convert.ToString(Console.ReadLine());
+                           imagen[cantidad+1].alto = int.Parse(Console.ReadLine());
                            Console.WriteLine("teclee el tamaño");
-                           imagen[cantidad+1].tamaño = Convert.ToString(Console.ReadLine());
+                           imagen[cantidad+1].tamaño = int.Parse(Console.ReadLine());
                            Console.ReadLine();
                         }
 
@@ -46,10 +41,9 @@ namespace ejercicio6
                        {
                            Console.WriteLine("Lista llena!!!");
                        }
-                   }
-                   
-                   if (opcion ==2)
-                   {
+                  break;
+
+                  case 2:
                        if (cantidad<capacidad)
                        {
                            Console.WriteLine("las imagenes ingresadas son...");
@@ -66,11 +60,10 @@ namespace ejercicio6
                        {
                            Console.WriteLine("la lista esta vacia");
                        }
-                   }
+                  break;
 
-                   if (opcion ==3)
-                   {
-                       if (cantidad>0)
+                  case 3:
+                      if (cantidad>0)
                        {
                            Console.WriteLine("teclee la imagen a buscar");
                            buscar = Convert.ToString(Console.ReadLine());
@@ -93,12 +86,23 @@ namespace ejercicio6
                               contador=0;
                             }
                         }
-                    }
-               }
+                  break;
+
+                  case 4:
+                    Console.WriteLine("Saliendo de la aplicacion");
+                  break;
+
+                  default: Console.WriteLine("Seleccione opcion valida");
+                  break;
+              }
               
-           } while (opcion== 4);
-            Console.WriteLine("FIN !!");
-            Console.ReadLine();
+           
         }
+    }
+
+    class datosimagen
+    {
+        public string nombre;
+        public float ancho, alto, tamaño;
     }
 }
