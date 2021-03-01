@@ -101,5 +101,4 @@ namespace ejercicio6
             Console.ReadLine();
         }
     }
-
 }
