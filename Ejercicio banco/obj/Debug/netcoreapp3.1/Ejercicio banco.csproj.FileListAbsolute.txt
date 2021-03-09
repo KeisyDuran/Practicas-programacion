@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\bin\Debug\netcoreapp3.1\Ejercicio banco.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Ejercicio banco\obj\Debug\netcoreapp3.1\Ejercicio banco.genruntimeconfig.cache
