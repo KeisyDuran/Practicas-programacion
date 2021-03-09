@@ -28,7 +28,7 @@ namespace Ejercicio_banco
             switch (elegir)
             {
                 case "1":
-                    int Retirar, Depositar, resul ;
+                    int Retirar, Depositar;
                     
                     
                     Console.WriteLine("Que quiere realizar \n" +
