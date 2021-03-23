@@ -6,10 +6,10 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
-            empleado prop = new empleado();
+            empleado keisy = new empleado();
 
-            prop.cargar();
-            prop.SalarioMayor();
+            keisy.cargar();
+            keisy.SalarioMayor();
         }
 
     }
