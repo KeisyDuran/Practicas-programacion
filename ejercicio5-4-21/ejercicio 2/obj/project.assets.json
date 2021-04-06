@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\ejercicio5-4-21.csproj",
-      "projectName": "ejercicio5-4-21",
-      "projectPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\ejercicio5-4-21.csproj",
+      "projectUniqueName": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\ejercicio 2\\ejercicio 2.csproj",
+      "projectName": "ejercicio 2",
+      "projectPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\ejercicio 2\\ejercicio 2.csproj",
       "packagesPath": "C:\\Users\\keisy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\obj\\",
+      "outputPath": "C:\\Users\\keisy\\OneDrive\\Documentos\\GitHub\\Practicas-programacion\\ejercicio5-4-21\\ejercicio 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keisy\\AppData\\Roaming\\NuGet\\NuGet.Config"
