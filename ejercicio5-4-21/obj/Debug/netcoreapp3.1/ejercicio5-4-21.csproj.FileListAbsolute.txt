@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\bin\Debug\netcoreapp3.1\ejercicio5-4-21.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio5-4-21\obj\Debug\netcoreapp3.1\ejercicio5-4-21.genruntimeconfig.cache
