@@ -1,0 +1,4 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio 5-4-21\obj\Debug\netcoreapp3.1\ejercicio 5.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio 5-4-21\obj\Debug\netcoreapp3.1\ejercicio 5.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio 5-4-21\obj\Debug\netcoreapp3.1\ejercicio 5.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\ejercicio 5-4-21\obj\Debug\netcoreapp3.1\ejercicio 5.csproj.CoreCompileInputs.cache
