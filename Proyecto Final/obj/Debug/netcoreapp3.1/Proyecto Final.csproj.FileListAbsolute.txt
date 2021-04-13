@@ -1,0 +1,13 @@
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.exe
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.deps.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.dev.json
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfo.cs
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\keisy\OneDrive\Documentos\GitHub\Practicas-programacion\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.genruntimeconfig.cache
