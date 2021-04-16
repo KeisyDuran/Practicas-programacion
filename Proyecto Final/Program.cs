@@ -9,10 +9,10 @@ namespace Proyecto_Final
 
             DatosPrestamos prestamos = new DatosPrestamos();
 
-            string  entrada = "";
+            string entrada = "";
             bool menu = true;
 
-            while(menu)
+            while (menu)
             {
                 Console.WriteLine("Bienvenido al simulador de prestamos \n");
                 Console.WriteLine("1-Introducir datos del prestamo");
@@ -51,23 +51,20 @@ class DatosPrestamos
 {
 
 
-   public float pago, Interes_pagado, Capital_pagado, Monto_del_prestamo, tasa_interes_anual, tasa_interes_mensual;
-   public int fila, Plazo, i;
+    public float pago, Interes_pagado, Capital_pagado, Monto_del_prestamo, tasa_interes_anual, tasa_interes_mensual;
+    public int fila, Plazo, i;
     public string beneficiario;
     public void datos()
- {
+    {
 
         Console.Clear();
-        Console.Write("Intruduzca beneficiario: ");
-        beneficiario = Console.ReadLine();
-        Console.Write("Introduce el monto del prestamo: ");
-        float.TryParse(Console.ReadLine(), out Monto_del_prestamo);
-        Console.Write("Introduce la tasa de interes anual: ");
-        float.TryParse(Console.ReadLine(), out tasa_interes_anual);
-        Console.Write("Introduce el plazo en meses: ");
-        int.TryParse(Console.ReadLine(), out Plazo);
+        beneficiario = leerbeneficiario("Intruduzca beneficiario: ");
+        Monto_del_prestamo = LeerMonto ("Introduce el monto del prestamo: ");
+        tasa_interes_anual = LeerInteres("Introduce la tasa de interes anual: ");
+        Plazo = LeerPlazo("Introduce el plazo en meses: ");
+         
 
-      
+
         //Calculo del interes mensual
         tasa_interes_mensual = (tasa_interes_anual / 100) / 12;
 
@@ -90,11 +87,92 @@ class DatosPrestamos
 
     }
 
+    public static string leerbeneficiario(string msg)
+    {
+         var Nombre = "";
 
+
+        Console.WriteLine(msg);
+
+        try
+        {
+            Nombre =  Console.ReadLine();
+        }
+        catch (Exception ex)
+        {
+
+            Nombre = leerbeneficiario(msg);
+
+        }
+
+        return Nombre;
+    }
+    public static int LeerMonto(string msg)
+    {
+        var monto = 0;
+
+        Console.WriteLine(msg);
+
+        try
+        {
+            monto = int.Parse(Console.ReadLine());
+        }
+        catch(Exception ex)
+        {
+
+            monto = LeerMonto(msg);
+
+        }
+
+        return monto;
+    }
+    public static int LeerPlazo(string msg)
+    {
+        var plazos = 0;
+
+        Console.WriteLine(msg);
+
+        try
+        {
+            plazos = int.Parse(Console.ReadLine());
+        }
+        catch (Exception ex)
+        {
+
+            plazos = LeerMonto(msg);
+
+        }
+
+        return plazos;
+    }
+    public static int LeerInteres(string msg)
+    {
+        var Interes = 0;
+
+        Console.WriteLine(msg);
+
+        try
+        {
+            Interes = int.Parse(Console.ReadLine());
+        }
+        catch (Exception ex)
+        {
+
+            Interes = LeerMonto(msg);
+
+        }
+
+        return Interes;
+    }
     public void tabla()
     {
         Console.Clear();
-        Console.WriteLine("Beneficiario: "+beneficiario);
+        Console.WriteLine("Beneficiario: " + beneficiario);
+        Console.WriteLine("Monto: "+ Monto_del_prestamo);
+        Console.WriteLine("Tasa: "+ tasa_interes_anual + " %");
+        Console.WriteLine("Plazo: "+Plazo+" Meses");
+        Console.WriteLine("Valor de cuota: " + Math.Round(pago));
+        Console.WriteLine("--------------------------------------");
         fila = 1;
         Console.WriteLine();
         Console.WriteLine();
@@ -134,12 +212,12 @@ class DatosPrestamos
             Console.WriteLine();
 
         }
- 
+
         Console.WriteLine("\n");
         Console.WriteLine("Precione una tecla para volver");
         Console.ReadKey();
         Console.Clear();
-     
+
     }
 
 }
