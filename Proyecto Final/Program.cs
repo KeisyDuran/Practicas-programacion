@@ -98,7 +98,7 @@ class DatosPrestamos
         {
             Nombre =  Console.ReadLine();
         }
-        catch (Exception ex)
+        catch (Exception)
         {
 
             Nombre = leerbeneficiario(msg);
@@ -117,7 +117,7 @@ class DatosPrestamos
         {
             monto = int.Parse(Console.ReadLine());
         }
-        catch(Exception ex)
+        catch(Exception )
         {
 
             monto = LeerMonto(msg);
@@ -136,7 +136,7 @@ class DatosPrestamos
         {
             plazos = int.Parse(Console.ReadLine());
         }
-        catch (Exception ex)
+        catch (Exception )
         {
 
             plazos = LeerMonto(msg);
@@ -155,7 +155,7 @@ class DatosPrestamos
         {
             Interes = int.Parse(Console.ReadLine());
         }
-        catch (Exception ex)
+        catch (Exception )
         {
 
             Interes = LeerMonto(msg);
